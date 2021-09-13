@@ -1,4 +1,4 @@
-"user strict" // use strick used for stop naming conflict
+"use strict" // use strict used for stop naming conflict
 
 var x = 23; // this is window.x
 
